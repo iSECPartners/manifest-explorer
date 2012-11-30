@@ -1,7 +1,7 @@
-manifest-explorer
+Manifest Explorer
 =================
 
-This tool helps us view Android Manifests (the AndroidManifest.xml file). These 
+This tool helps to view Android Manifests (the AndroidManifest.xml file). These 
 manifests are part of every application users install, and part of the build of 
 the Android platform itself. The Android Manifest is a crucial policy files 
 that defines things like:
